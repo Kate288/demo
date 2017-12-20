@@ -1,0 +1,8 @@
+Hello everyion
+
+How are you doing?
+
+Wonderful weather
+git config --global user.name "[name]"
+Sets the name you want atached to your commit transactions
+$ git config --global user.email "[email address]

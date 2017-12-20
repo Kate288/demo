@@ -1,0 +1,11 @@
+<<<<<<< Updated upstream
+hello
+helllo
+hellllo
+=======
+r many, the command line belongs to long gone days: when computers were controlled by typing mystical commands into a black window; when the mouse possessed no power. But for many use cases, the command line is still absolutely indispensable!
+
+Our cheat sheet not only features the most important commands. On the back, it also explains some tips & tricks that make working with the CLI a lot easier.
+
+
+>>>>>>> Stashed changes
